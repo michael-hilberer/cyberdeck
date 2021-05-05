@@ -15,6 +15,7 @@
 
 
 #### Software
+- [Raspberry Pi OS Lite](https://www.raspberrypi.org/software/operating-systems/) (because we do need fancy UI staff)
 
 ### What do you need to do
 
