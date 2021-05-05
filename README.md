@@ -11,6 +11,7 @@
 - USB A to USB C cable
 - USB A to micro USB cable
 - Powerbank for portable use
+- Micro SD Card (e.g. 128GB)
 
 
 #### Software
